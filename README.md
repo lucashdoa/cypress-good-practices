@@ -6,7 +6,7 @@
 
 - [x] Session 0: Apresentação
 - [x] Session 1: Browser Testing
-- [ ] Session 2: Duplicação de Código
+- [x] Session 2: Duplicação de Código
 - [ ] Session 3: Flaky Tests
 - [ ] Session 4: Hardcoded
 - [ ] Session 5: Complexidade Desnecessária
